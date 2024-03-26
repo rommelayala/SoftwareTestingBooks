@@ -62,6 +62,8 @@ Here is the list with the title of those books:
 
 [Apostila ISTQB - CTFL - Certificação - versão 2011](https://github.com/clarabez/SoftwareTestingBooks/blob/master/Apostila%20ISTQB%20-%20CTFL%20-%20Certifica%C3%A7%C3%A3o%20-%20vers%C3%A3o%202011.pdf)<br>
 
+[Java code geeks libros - 03-2024]https://javacodegeeks.tradepub.com/?pt=myacct&page=history
+
 ## DevOps and Infra:
 [A Practical Guide to Testing in DevOps (Katrina Clokie)](https://github.com/clarabez/SoftwareTestingBooks/blob/master/A%20Practical%20Guide%20to%20Testing%20in%20DevOps%20-%20Katrina%20Clokie.pdf);<br>
 [Ansible Up and Running](https://github.com/clarabez/SoftwareTestingBooks/blob/master/Ansible%20Up%20and%20Running.pdf);<br>
